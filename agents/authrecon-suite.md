@@ -7,7 +7,7 @@ license: "Apache-2.0"
 tier: "contributed"
 tags: ["tenable-was", "authenticated-scanning", "dast", "selenium", "login-automation", "self-hosted", "mcp"]
 domains: ["application-security"]
-integrations: ["Tenable", "Anthropic"]
+integrations: ["Tenable"]
 date_added: 2026-10-26
 contribution_agreement_date: 2026-10-26T14:14:37Z
 ---
